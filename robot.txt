@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /deadly-lands/
-Allow: /deadly-lands/modules/updates/
